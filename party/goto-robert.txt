@@ -1,0 +1,5 @@
+send Shannon /say @goto Robert;
+wait 1;
+send Robbie /say @goto Robert;
+wait 1;
+send Bryan /say @goto Robert;

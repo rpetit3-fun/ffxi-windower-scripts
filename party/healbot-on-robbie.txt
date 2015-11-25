@@ -1,0 +1,9 @@
+send Robbie lua load healbot;
+send Robbie hb disable curaga;
+send Robbie hd bufflist self Robbie;
+send Robbie hb follow Robert;
+send Robbie hb watch Shannon;
+send Robbie hb watch Robbie;
+send Robbie hb watch Robert;
+send Robbie hb watch Bryan;
+send Robbie hb on;

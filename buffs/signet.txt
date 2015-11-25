@@ -1,0 +1,4 @@
+send Shannon /say @signet;
+send Robbie /say @signet;
+send Bryan /say @signet;
+/say @signet

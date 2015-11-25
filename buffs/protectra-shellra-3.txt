@@ -1,0 +1,5 @@
+exec 'ffxi-scripts/party/goto-shannon.txt';
+wait 5
+send Shannon /ma 'Protectra III' Shannon;
+wait 10
+send Shannon /ma 'Shellra III' Shannon;

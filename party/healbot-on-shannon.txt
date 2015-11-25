@@ -1,0 +1,11 @@
+send Shannon lua load healbot;
+send Shannon hb disable curaga;
+send Shannon hd bufflist self Shannon;
+send Shannon hd bufflist dd Bryan;
+send Shannon hd bufflist dd Robert;
+send Shannon hb follow Robert;
+send Shannon hb watch Shannon;
+send Shannon hb watch Robbie;
+send Shannon hb watch Robert;
+send Shannon hb watch Bryan;
+send Shannon hb on;

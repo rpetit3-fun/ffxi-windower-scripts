@@ -1,0 +1,11 @@
+send Shannon /tell Robert party;
+wait 3;
+send Shannon /say @goto Robert;
+
+send Robbie /tell Robert party;
+wait 3;
+send Robbie /say @goto Robert;
+
+send Bryan /tell Robert party;
+wait 3;
+send Bryan /say @goto Robert;
