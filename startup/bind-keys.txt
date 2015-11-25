@@ -15,12 +15,6 @@ bind ^g send Robbie /ma 'Gravity' <t>;
 bind ^z send Robbie /ma 'Sleep' <t>;
 
 // Windows Key Bindings
-bind @c send Robbie /ma 'Cure' <me>;
-bind @v send Robbie /ma 'Cure II' <me>;
-bind @b send Robbie /ma 'Cure III' <me>;
-bind @d send Robbie /ma 'Cure' Bryan;
-bind @f send Robbie /ma 'Cure II' Bryan;
-bind @g send Robbie /ma 'Cure III' Bryan;
 bind @r send Robbie /ma 'Refresh' <me>;
 bind @t send Robbie /ma 'Enthunder' <me>;
 bind @w send Robbie /ma 'Enaero' <me>;
